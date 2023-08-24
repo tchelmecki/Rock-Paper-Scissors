@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Rubik:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    text-align: center;
+}
+body{
+    background: rgb(22,22,121);
+    background: linear-gradient(184deg, rgba(22,22,121,1) 100%, rgba(0,212,255,1) 100%);
+    color: white;
+}
+.content{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    flex-wrap: wrap;
+}
+.label1{
+    width: 100vw;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+    font-weight: bold;
+}
+span{
+    width: 100vw;
+}
+button{
+    width: 300px;
+    height: 300px;
+    border: none;
+    margin: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: blue;
+    color: white;
+    transition: .4s ease-in-out;
+}
+button:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+label{
+    width: 100vw;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+}
+
+#rock{
+    background-image: url(/img/hand.png);
+    background-size: 90%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-color: green;
+
+}
+#paper{
+    background-image: url(/img/palm.png);
+    background-size: 100%;
+    background-color: red;
+}
+#scissors{
+    background-image: url(/img/scissors.png);
+    background-size: 100%;
+    background-color: yellow;
+
+}
+
+
+
