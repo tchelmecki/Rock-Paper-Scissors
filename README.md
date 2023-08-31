@@ -3,7 +3,7 @@
 <p>HTML, CSS, JAVASCRIPT</p>
 <h3>Launching:</h3>
 <ul>
-  <li>URL</li>
+  <li>https://tchelmecki.github.io/Rock-Paper-Scissors/</li>
 </ul>
 <h3>Preview:</h3>
 
