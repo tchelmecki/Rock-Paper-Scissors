@@ -4,5 +4,5 @@
 
 <h3>Preview:</h3>
 
-![noz](https://github.com/tchelmecki/Rock-Paper-Scissors/assets/121833733/2af10d12-0376-435c-949f-883499b48517)
+https://github.com/tchelmecki/Rock-Paper-Scissors/assets/121833733/5ecad595-1382-4d49-94ac-faa872b281cb
 
